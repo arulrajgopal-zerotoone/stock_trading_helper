@@ -1,0 +1,3 @@
+Install Dependencies
+pip install mplfinance
+pip install yfinance
